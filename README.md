@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Nguy%E1%BB%85n%20H%C3%A0%20S%C6%A1n&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Mechatronics%20%C2%B7%20Robotics&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Mechatronics+student+%40+HUST+%E2%80%94+Talented+Program;Robot+kinematics%2C+dynamics+%26+control;ROS+2+%C2%B7+Gazebo+%C2%B7+MATLAB%2FSimulink" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Mechatronics+student+%40+HUST+%E2%80%94+Talented+Program;Building+robots%3A+arms%2C+AMRs+and+beyond;ROS+2+%C2%B7+Gazebo+%C2%B7+Embedded+%C2%B7+Simulation" alt="Typing SVG"/>
 
 </div>
 
@@ -11,8 +11,9 @@
 ### 👋 About me
 
 - 🎓 Mechatronics Engineering — **Talented Engineering Program**, Hanoi University of Science and Technology (HUST), class of 2023
-- 🤖 Focused on **robotics**: manipulator kinematics & dynamics, trajectory planning, robot control and simulation
-- 🛠️ From mechanical design to code: CAD → modelling → controller → ROS 2 simulation
+- 🤖 Into **robotics** of all kinds: robot arms, autonomous mobile robots (AMR) and whatever comes next
+- 🚗 Currently building an **AMR** with my team
+- 🛠️ I like taking a robot all the way: mechanical design → control → software → simulation and real hardware
 - 📫 Reach me at **hasonhd123@gmail.com**
 
 ### 🧰 Tech stack
@@ -35,9 +36,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Searn-1007&repo=robotic-arm-ros2&theme=tokyonight&hide_border=true&description_lines_count=2" alt="robotic-arm-ros2"/>
 </a>
 
-**4-DOF R-P-R-R welding robot** — SolidWorks design, DH kinematics & Jacobian, Lagrange dynamics (Maple),
-LSPB trajectory planning, inverse-dynamics PD control (Simulink) and a ROS 2 + Gazebo simulation tracking
-the weld path to under 1 mm.
+**4-DOF welding robot arm** — designed in SolidWorks, modelled and controlled in Python/MATLAB,
+and simulated in ROS 2 + Gazebo.
 
 ### 📫 Contact
 
