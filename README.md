@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Nguy%E1%BB%85n%20H%C3%A0%20S%C6%A1n&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Mechatronics%20%C2%B7%20Robotics&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Mechatronics+student+%40+HUST+%E2%80%94+Talented+Program;Passionate+about+robotics;ROS+2+%C2%B7+Gazebo+%C2%B7+Embedded+%C2%B7+Simulation" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Mechatronics+student+%40+HUST+%E2%80%94+Talented+Program;Full-stack+robotics%3A+CAD+%E2%86%92+hardware+%E2%86%92+software;ROS+2+%C2%B7+Gazebo+%C2%B7+Embedded+%C2%B7+Simulation" alt="Typing SVG"/>
 
 </div>
 
@@ -11,7 +11,12 @@
 ### 👋 About me
 
 - 🎓 Mechatronics Engineering — **Talented Engineering Program**, Hanoi University of Science and Technology (HUST), class of 2023
-- 🤖 Interested in **robotics**: design, control, software and simulation
+- 🤖 **Full-stack robotics**: I build robots end to end, hands-on at every stage
+  - 📐 Mechanical design in SolidWorks
+  - 💻 Modelling & simulation
+  - 🔩 Mechanical assembly
+  - 🔌 Electrical wiring & hardware setup
+  - 🧠 Software & control with ROS 2
 - 📫 Reach me at **hasonhd123@gmail.com**
 
 ### 🧰 Tech stack
